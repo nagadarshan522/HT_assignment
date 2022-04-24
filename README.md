@@ -1,1 +1,1 @@
-# HT_assignment
+# Hypothesis testing project
